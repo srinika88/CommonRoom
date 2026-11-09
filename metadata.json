@@ -1,0 +1,8 @@
+{
+  "name": "Commonroom",
+  "description": "Collaborative decision intelligence platform where teams think together and decisions remember. Features alternatives canvas, trade-off matrix, disagreement tracking, and persistent decision memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
